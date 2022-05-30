@@ -1,0 +1,56 @@
+C:\Users\denis\source\repos\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\denis\source\repos\Kursach\bin\Debug\Kursach.exe
+C:\Users\denis\source\repos\Kursach\bin\Debug\Kursach.pdb
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.Form1.resources
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.exe
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.pdb
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.Form2.resources
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.Form3.resources
+C:\Users\denis\source\repos\Kursach\bin\Debug\ZedGraph.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\ZedGraph.xml
+C:\Users\denis\source\repos\Kursach\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach\obj\Debug\Kursach.csproj.CopyComplete
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\Kursach.exe.config
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\Kursach.exe
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\Kursach.pdb
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\ZedGraph.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\ZedGraph.xml
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.Form1.resources
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.Form2.resources
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.Form3.resources
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.csproj.CopyComplete
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.exe
+C:\Users\denis\source\repos\Kursach — копия\obj\Debug\Kursach.pdb
